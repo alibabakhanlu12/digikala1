@@ -93,3 +93,26 @@ export const category3 = [
     {id:1, image:"https://dkstatics-public.digikala.com/digikala-adservice-banners/fc311dd5e22f0984cf9f38ef33169f10057e16d7_1658041087.jpg?x-oss-process=image/quality,q_95"},
     {id:2, image:"https://dkstatics-public.digikala.com/digikala-adservice-banners/f31e27f22f254106c9c4e6ea0dcba583e34c4982_1658039387.jpg?x-oss-process=image/quality,q_95"}
 ]
+
+
+export const Amazing_offer = [
+    {id:1,offer: "12" , price:124000 ,image:"https://dkstatics-public.digikala.com/digikala-products/4cbbac648488bfc79c48692e6da2c52e958c6da1_1597582593.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:2,offer: "13" , price:12700 ,image:"https://dkstatics-public.digikala.com/digikala-products/3323f4f96583c9d2f735a602847166182de99548_1631039101.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:3,offer: "54" , price:1224000 ,image:"https://dkstatics-public.digikala.com/digikala-products/23090c9d1c59a45019587b318ded085ea0c50815_1655631350.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:4,offer: "54" , price:12454000 ,image:"https://dkstatics-public.digikala.com/digikala-products/41815de37325770716f132f57137bad12f1b8099_1645196674.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:5,offer: "46" , price:124450 ,image:"https://dkstatics-public.digikala.com/digikala-products/e908251b965224cbf69963d7011af176fef6fdda_1641583736.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:6,offer: "62" , price:766200 ,image:"https://dkstatics-public.digikala.com/digikala-products/969a163cab394ef7e2d9938d73048025a10fab4f_1645343379.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:7,offer: "53" , price:534000 ,image:"https://dkstatics-public.digikala.com/digikala-products/56c6aedeb100aea3ac1682d5c456e1e82751c694_1639833262.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:8,offer: "26" , price:353000 ,image:"https://dkstatics-public.digikala.com/digikala-products/7c9353899036cfcdee916d677cd1654cc2542767_1658063346.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:9,offer: "28" , price:354000 ,image:"https://dkstatics-public.digikala.com/digikala-products/7c9353899036cfcdee916d677cd1654cc2542767_1658063346.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:10,offer: "16" , price:5344000 ,image:"https://dkstatics-public.digikala.com/digikala-products/cdd9332efd819f540b80d9d90d50d92e7240dda2_1653892642.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:11,offer: "41" , price:1453000 ,image:"https://dkstatics-public.digikala.com/digikala-products/0bfd415bdd43c163aca3d729d56a8826d62a488b_1638959475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:12,offer: "72" , price:353500 ,image:"https://dkstatics-public.digikala.com/digikala-products/0fc2cf41c5e1a8ebacc16ebb1d9d277cd786a7b0_1651306160.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:13,offer: "62" , price:353500 ,image:"https://dkstatics-public.digikala.com/digikala-products/969a163cab394ef7e2d9938d73048025a10fab4f_1645343379.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:14,offer: "22" , price:53300 ,image:"https://dkstatics-public.digikala.com/digikala-products/976983.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:15,offer: "11" , price:5353000 ,image:"https://dkstatics-public.digikala.com/digikala-products/e309877a0413311b8877741982335ac5d854f7fd_1658297055.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:16,offer: "90" , price:35345100 ,image:"https://dkstatics-public.digikala.com/digikala-products/e908251b965224cbf69963d7011af176fef6fdda_1641583736.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+
+
+
+]

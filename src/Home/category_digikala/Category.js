@@ -1,7 +1,9 @@
 import React from 'react'
 import { content, category, category2, category3 } from '../Slider/Info'
+import Card from './Card'
 
 function Category() {
+    
     return (
         <div>
             <div className='flex flex-row-reverse justify-around top-50 mt-20  items-center flex-wrap'>
@@ -15,7 +17,7 @@ function Category() {
                 ))}
             </div>
 
-
+                        <Card></Card>
             <div className='grid gap-5 ml-4 mr-4  mt-20 grid-cols-4  flex-wrap'>
 
 
