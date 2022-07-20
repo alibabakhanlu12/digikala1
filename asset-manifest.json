@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/digikala1/static/css/main.56abca5f.css",
+    "main.js": "/digikala1/static/js/main.6808f535.js",
+    "static/media/navbar.jpg": "/digikala1/static/media/navbar.5c3a206602554374d9d9.jpg",
+    "static/media/revicons.eot": "/digikala1/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/digikala1/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/digikala1/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/digikala1/static/media/logo.fa463f3b7ec20e25f535f0bd4f812a82.svg",
+    "index.html": "/digikala1/index.html",
+    "main.56abca5f.css.map": "/digikala1/static/css/main.56abca5f.css.map",
+    "main.6808f535.js.map": "/digikala1/static/js/main.6808f535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56abca5f.css",
+    "static/js/main.6808f535.js"
+  ]
+}
