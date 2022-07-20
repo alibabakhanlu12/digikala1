@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from './Home/Navbar/Navbar';
  import Slider1 from './Home/Slider/Slider1';
+ import Category from './Home/category_digikala/Category';
 function App() {
   return (
     <section
@@ -8,7 +9,8 @@ function App() {
     font-[Poppins] md:bg-top bg-center"
   >
     <Navbar />
-    <Slider1/>    
+    <Slider1/>   
+    <Category></Category> 
   </section>
   );
 }
