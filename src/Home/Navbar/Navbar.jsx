@@ -29,20 +29,15 @@ const Navbar = () => {
         </div>
 
         <div className="flex  font-medium justify-end">
-        <ul className="md:flex hidden uppercase items-center gap-8 font-[Poppins]">
-          <li>
+        <ul className="md:flex hidden uppercase items-center gap-8">
+           <li>
             <Link to="/" className="py-7 px-3 inline-block">
-              سوپرمارکت
+             !فروشنده شوید
             </Link>
           </li>
-          <li>
+           <li>
             <Link to="/" className="py-7 px-3 inline-block">
-              پرفروش ترین ها
-            </Link>
-          </li>
-          <li>
-            <Link to="/" className="py-7 px-3 inline-block">
-              تخفیف ها و پیشنهادها
+             سوالی دارید؟
             </Link>
           </li>
           <li>
@@ -52,20 +47,28 @@ const Navbar = () => {
           </li>
           <li>
             <Link to="/" className="py-7 px-3 inline-block">
-             سوالی دارید؟
+              تخفیف ها و پیشنهادها
             </Link>
           </li>
           <li>
             <Link to="/" className="py-7 px-3 inline-block">
-             !فروشنده شوید
+              پرفروش ترین ها
             </Link>
           </li>
+        
+          <li>
+            <Link to="/" className="py-7 px-3 inline-block">
+              سوپرمارکت
+            </Link>
+          </li>
+     
+     
           <NavLinks />
         </ul>
   
         <ul
           className={`
-        md:hidden bg-white fixed w-full top-0 overflow-y-auto bottom-0 py-24 pl-4
+        md:hidden bg-white fixed w-full z-40  top-0 overflow-y-auto bottom-0 py-24 pl-4
         duration-500 ${open ? "left-0" : "left-[-100%]"}
         `}
         >
