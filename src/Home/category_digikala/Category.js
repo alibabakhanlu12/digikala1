@@ -37,7 +37,7 @@ function Category() {
                 category2.map((item) => (
                     <div key={item.id}>
                         <img src={item.image} alt={item.title} />
-                        <h1 className='text-center font-serif'>{item.title}</h1>
+                        <h1 className='text-center font-sans'>{item.title}</h1>
                     </div>
                 ))
 

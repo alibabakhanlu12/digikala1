@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className="flex items-center font-medium justify-between">
         <div className="flex flex-row gap-4 ">
         <AiOutlineShoppingCart className="w-10 h-10 cursor-pointer"></AiOutlineShoppingCart>
-        <div className="shadow-md  w-50 font-semibold  flex flex-row items-center gap-3 pr-3   cursor-pointer ">
+        <div className="border-neutral-900  w-50 font-sans  flex flex-row items-center gap-3 pr-3   cursor-pointer ">
           <IoEnterOutline className="w-7 h-7"></IoEnterOutline>
         ورود و ثبت نام
         

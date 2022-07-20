@@ -34,7 +34,7 @@ export default function Digikalaoffer() {
       </Swiper>
       <BestBrand/>
 
-<div className="flex flex-row gap-5 ml-5 mr-5">
+<div className="flex flex-row gap-5 ml-5 mt-10 mr-5">
       {BestBrand1.map((item)=>(
         <div key={item.id} className="rounded-md">
           <img src={item.image} alt={item.id} className='rounded-2xl'/>
